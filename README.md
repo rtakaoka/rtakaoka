@@ -1,6 +1,7 @@
 👋 Hi, I'm Rômulo Takaoka.
 
-I'm a `ferocious learner` with 9 years of professional experience. I believe I have the **maturity and resilience** to face any challenge in life.
+I'm a `ferocious learner` with 9 years of professional experience.
+I believe I have the **maturity and resilience** to face any challenge in life.
 Everything I do either at work or in life, I do with purpose, to fulfill my faith and bring the best to my family.
 
 ## Those are my main skills:
