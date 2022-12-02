@@ -21,3 +21,5 @@ Everything I do either at work or in life, I do with purpose, to fulfill my fait
 - Business Analysis
 - Public Speaking
 - Problem Solving
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtakaoka&count_private=true&show_icons=true&theme=transparent&title_color=F0C842&text_color=777777&icon_color=fff)](https://github.com/rtakaoka/github-readme-stats)
