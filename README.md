@@ -8,7 +8,16 @@ Everything I do either at work or in life, I do with purpose, to fulfill my fait
 const myself = {
   fullName: "Rômulo Takaoka",
   age: 34,
-  hobbies: [ "play guitar", "watercolor painting" ],
+  hobbies: [ 
+    "play guitar",
+    "watercolor painting"
+    ],
+  highestValues: [
+    "faith in God 🙏",
+    "family 👩🏼‍🦰👶🏻",
+    "love 💕",
+    "respect 🕊",
+    ],
 }
 ```
 
