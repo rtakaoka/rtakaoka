@@ -10,7 +10,8 @@ const myself = {
   age: 34,
   hobbies: [ 
     "play guitar",
-    "watercolor painting"
+    "watercolor painting",
+    "cooking",
     ],
   highestValues: [
     "faith in God 🙏",
