@@ -27,7 +27,7 @@ const myself = {
 - Front-end with `React.js`
 - Favorite framework: `Next.js`
 - Programming Languages: `Typescript`, `JavaScript` and some `Python`
-- Favorite framework for styles: `Tailwind CSS`, but recently I had the opportunity to work with `Stitches` and loved it.
+- Favorite framework for CSS styles: `Tailwind CSS`, but recently I had the opportunity to work with `Stitches` and loved it.
 - Back-end with `Node.js`
 - Database with `SQL`
 - Familiarity with `REST API` or `GraphQL`
